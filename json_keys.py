@@ -1,0 +1,8 @@
+SPACES = 'spaces'
+ID = 'id'
+NAME = 'name'
+NEIGHBORS = 'neighbors'
+DIR = 'dir'
+N_ID = 'n_id'
+DESC_LONG = 'description_long'
+DESC_SHORT = 'description_short'
